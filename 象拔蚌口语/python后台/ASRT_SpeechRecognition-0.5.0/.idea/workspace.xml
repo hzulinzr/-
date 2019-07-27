@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a572b672-7719-4179-9733-c2ece9f952d9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$vis_utils.coverage" NAME="vis_utils Coverage Results" MODIFIED="1562580683820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/utils" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$spider.coverage" NAME="spider Coverage Results" MODIFIED="1562656513104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$pytest_in_test_gpu_py.coverage" NAME="pytest in test_gpu.py Coverage Results" MODIFIED="1562577728003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$asrserver.coverage" NAME="asrserver Coverage Results" MODIFIED="1563123029566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$train_mspeech.coverage" NAME="train_mspeech Coverage Results" MODIFIED="1563153044993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$test.coverage" NAME="test Coverage Results" MODIFIED="1562577823680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$build_info.coverage" NAME="build_info Coverage Results" MODIFIED="1562576955042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$gpu_version.coverage" NAME="gpu_version Coverage Results" MODIFIED="1562580242893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$testClient.coverage" NAME="testClient Coverage Results" MODIFIED="1562899655696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asrserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="e#93#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/http/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="405" selection-start-line="405" selection-end-line="405" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/socketserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="363" selection-start-line="363" selection-end-line="363" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/general_function/file_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_mspeech.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <folding>
+                <element signature="e#93#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpeechModel251.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="378" selection-start-line="378" selection-end-line="378" />
+              <folding>
+                <element signature="e#74#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Report_test_20190721_084059.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readdata25.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5994">
+              <caret line="231" column="11" selection-start-line="231" selection-start-column="11" selection-end-line="231" selection-end-column="11" />
+              <folding>
+                <element signature="e#48#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testClient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#94#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Report_test_20190607_020210.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Recognition</find>
+      <find>fit</find>
+      <find>Adam</find>
+      <find>gpu</find>
+      <find>32</find>
+      <find>loss</find>
+      <find>1600</find>
+      <find>Speech</find>
+      <find>sishell</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpeechModel261.py" />
+        <option value="$PROJECT_DIR$/Test_Report_test_20190531_224554.txt" />
+        <option value="F:/Anaconda3/Lib/site-packages/keras/utils/vis_utils.py" />
+        <option value="I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/platform/build_info.py" />
+        <option value="$PROJECT_DIR$/test_gpu.py" />
+        <option value="I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/utils/vis_utils.py" />
+        <option value="$PROJECT_DIR$/pachong.py" />
+        <option value="$PROJECT_DIR$/testClient.py" />
+        <option value="$PROJECT_DIR$/SpeechModel251_2.py" />
+        <option value="$PROJECT_DIR$/LanguageModel.py" />
+        <option value="$PROJECT_DIR$/spider.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/settings.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/items.py" />
+        <option value="$PROJECT_DIR$/Spider/SpiderText/spiders/juzi.py" />
+        <option value="$PROJECT_DIR$/Spider/Spider/spiders/juzi.py" />
+        <option value="$PROJECT_DIR$/pachong/pachong/items.py" />
+        <option value="$PROJECT_DIR$/pachong/pachong/settings.py" />
+        <option value="$PROJECT_DIR$/pachong/pachong/spiders/juzi.py" />
+        <option value="$PROJECT_DIR$/pachong/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/pachong/PachongPipeline.json" />
+        <option value="$PROJECT_DIR$/pachong/Spider/settings.py" />
+        <option value="$PROJECT_DIR$/pachong/Spider/items.py" />
+        <option value="$PROJECT_DIR$/pachong/Spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/pachong/Spider/spiders/test.py" />
+        <option value="$PROJECT_DIR$/pachong/Spider/spiders/juzi.py" />
+        <option value="$PROJECT_DIR$/pachong/jz.json" />
+        <option value="$PROJECT_DIR$/asrserver.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/readdata24.py" />
+        <option value="$PROJECT_DIR$/general_function/file_wav.py" />
+        <option value="$PROJECT_DIR$/7-21-test.py" />
+        <option value="$PROJECT_DIR$/readdata25.py" />
+        <option value="$PROJECT_DIR$/test_mspeech.py" />
+        <option value="$PROJECT_DIR$/train_mspeech.py" />
+        <option value="$PROJECT_DIR$/general_function/file_dict.py" />
+        <option value="$PROJECT_DIR$/SpeechModel251.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="240" />
+    <option name="width" value="1335" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ASRT_SpeechRecognition-0.5.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASRT_SpeechRecognition-0.5.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model_speech/m251" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ASRT_SpeechRecognition-0.5.0\model_speech\m251" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.asrserver">
+    <configuration name="7-21-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASRT_SpeechRecognition-0.5.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-21-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asrserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASRT_SpeechRecognition-0.5.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asrserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASRT_SpeechRecognition-0.5.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general_function/file_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_mspeech" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASRT_SpeechRecognition-0.5.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_mspeech.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_mspeech.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ASRT_SpeechRecognition-0.5.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_mspeech.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.asrserver" />
+        <item itemvalue="Python.file_dict" />
+        <item itemvalue="Python.train_mspeech" />
+        <item itemvalue="Python tests.pytest in test_mspeech.py" />
+        <item itemvalue="Python.7-21-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a572b672-7719-4179-9733-c2ece9f952d9" name="Default Changelist" comment="" />
+      <created>1557323962708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557323962708</updated>
+      <workItem from="1557323967985" duration="27000" />
+      <workItem from="1557336374354" duration="1210000" />
+      <workItem from="1558609530497" duration="75000" />
+      <workItem from="1559226792739" duration="4327000" />
+      <workItem from="1559234630619" duration="1091000" />
+      <workItem from="1559270424157" duration="443000" />
+      <workItem from="1559271845928" duration="1177000" />
+      <workItem from="1559273149884" duration="308000" />
+      <workItem from="1559273804161" duration="2831000" />
+      <workItem from="1559276939805" duration="614000" />
+      <workItem from="1559277566621" duration="1280000" />
+      <workItem from="1559278942835" duration="4648000" />
+      <workItem from="1559309747317" duration="7641000" />
+      <workItem from="1559372093641" duration="2329000" />
+      <workItem from="1559406918415" duration="10907000" />
+      <workItem from="1559463698207" duration="7539000" />
+      <workItem from="1559497729946" duration="6832000" />
+      <workItem from="1559610526066" duration="4763000" />
+      <workItem from="1559667517401" duration="1886000" />
+      <workItem from="1559734749758" duration="8467000" />
+      <workItem from="1559788586391" duration="2041000" />
+      <workItem from="1559795512041" duration="1176000" />
+      <workItem from="1559810972045" duration="1723000" />
+      <workItem from="1559814288135" duration="2576000" />
+      <workItem from="1559836910148" duration="4198000" />
+      <workItem from="1559862135980" duration="139000" />
+      <workItem from="1559902363354" duration="1633000" />
+      <workItem from="1559904046477" duration="1363000" />
+      <workItem from="1559908978728" duration="2095000" />
+      <workItem from="1559911093855" duration="771000" />
+      <workItem from="1561177654461" duration="1860000" />
+      <workItem from="1561696485586" duration="758000" />
+      <workItem from="1562576204027" duration="271000" />
+      <workItem from="1562576581425" duration="11365000" />
+      <workItem from="1562591610054" duration="2936000" />
+      <workItem from="1562597360973" duration="3097000" />
+      <workItem from="1562656349888" duration="1958000" />
+      <workItem from="1562816216880" duration="9163000" />
+      <workItem from="1562895644823" duration="15173000" />
+      <workItem from="1563019476662" duration="3143000" />
+      <workItem from="1563029416914" duration="6926000" />
+      <workItem from="1563069755064" duration="4865000" />
+      <workItem from="1563075292625" duration="12923000" />
+      <workItem from="1563120283851" duration="2864000" />
+      <workItem from="1563123807371" duration="5018000" />
+      <workItem from="1563188249594" duration="62000" />
+      <workItem from="1563197508498" duration="79000" />
+      <workItem from="1563197620481" duration="870000" />
+      <workItem from="1563199382547" duration="924000" />
+      <workItem from="1563213970556" duration="3617000" />
+      <workItem from="1563371765071" duration="108000" />
+      <workItem from="1563462409282" duration="4420000" />
+      <workItem from="1563501288952" duration="6018000" />
+      <workItem from="1563521716382" duration="2339000" />
+      <workItem from="1563525020072" duration="153000" />
+      <workItem from="1563537261736" duration="3196000" />
+      <workItem from="1563587146134" duration="12095000" />
+      <workItem from="1563599792604" duration="19047000" />
+      <workItem from="1563627780355" duration="1609000" />
+      <workItem from="1563630596484" duration="5453000" />
+      <workItem from="1563644508356" duration="3012000" />
+      <workItem from="1563668573186" duration="12393000" />
+      <workItem from="1564201989344" duration="1801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_mspeech_py - 2019.06.07 at 00h 58m 40s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.06.07 at 00h 59m 22s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.06.07 at 01h 01m 11s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_gpu_py - 2019.07.08 at 17h 20m 18s.xml">
+      <configuration name="pytest in test_gpu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_gpu_py - 2019.07.08 at 17h 22m 08s.xml">
+      <configuration name="pytest in test_gpu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.07.21 at 08h 37m 48s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.07.21 at 08h 39m 22s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.07.21 at 08h 40m 37s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.07.21 at 08h 41m 06s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_mspeech_py - 2019.07.21 at 12h 49m 40s.xml">
+      <configuration name="pytest in test_mspeech.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245626000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="34" y="192" width="1068" height="880" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22871287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.499501" weight="0.32663316" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49401197" weight="0.42056075" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.499501" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286052" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5065253" side_tool="true" weight="0.37102473" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.44522613" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980973" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$LanguageModel.coverage" NAME="LanguageModel Coverage Results" MODIFIED="1563539312009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$train_mspeech.coverage" NAME="train_mspeech Coverage Results" MODIFIED="1563685241116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$testClient.coverage" NAME="testClient Coverage Results" MODIFIED="1559789197867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$SpeechModel251.coverage" NAME="SpeechModel251 Coverage Results" MODIFIED="1563674343572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$file_wav.coverage" NAME="file_wav Coverage Results" MODIFIED="1563674191237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/general_function" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$pytest_in_test_mspeech_py.coverage" NAME="pytest in test_mspeech.py Coverage Results" MODIFIED="1563684489865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$juzi__2_.coverage" NAME="juzi (2) Coverage Results" MODIFIED="1563614552593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong/Spider/spiders" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$test.coverage" NAME="test Coverage Results" MODIFIED="1563615465641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong/Spider/spiders" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$spider.coverage" NAME="spider Coverage Results" MODIFIED="1563587606353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$7_21_test.coverage" NAME="7-21-test Coverage Results" MODIFIED="1563676535962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$file_dict.coverage" NAME="file_dict Coverage Results" MODIFIED="1564203353845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/general_function" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$asrserver.coverage" NAME="asrserver Coverage Results" MODIFIED="1564203620430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$juzi__1_.coverage" NAME="juzi (1) Coverage Results" MODIFIED="1563599532917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/SpiderText/spiders" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$juzi.coverage" NAME="juzi Coverage Results" MODIFIED="1563598094357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Spider/spiders" />
+    <SUITE FILE_PATH="coverage/ASRT_SpeechRecognition_0_5_0$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1563647512390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/spiders/__init__.py" />
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/core/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/items.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/Spider/spiders/juzi.py" />
+    <entry file="file://$PROJECT_DIR$/pachong/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/utils/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/spiderloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="346" selection-start-line="346" selection-end-line="346" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/items.json" />
+    <entry file="file://$PROJECT_DIR$/pachong/PachongPipeline.json" />
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/utils/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/spiders/juzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/jz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26436" selection-start-column="26436" selection-end-column="26436" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong/Spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeechModel251_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="e#74#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_function/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/wave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="206" column="8" selection-start-line="206" selection-start-column="8" selection-end-line="206" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AISHELL-2-sample/iOS/data/wav.scp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/site-packages/keras/engine/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29673">
+          <caret line="1123" column="8" selection-start-line="1123" selection-start-column="8" selection-end-line="1123" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
+          <folding>
+            <element signature="e#104#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_function/file_wav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="218" column="27" lean-forward="true" selection-start-line="218" selection-start-column="27" selection-end-line="218" selection-end-column="27" />
+          <folding>
+            <element signature="e#48#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readdata24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="225" column="8" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_test_20190607_040125.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_test_20190721_084007.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_test_20190607_023732.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_dev_20190721_124833.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_mspeech.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#93#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-21-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="35" column="75" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_test_20190721_084059.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readdata25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5994">
+          <caret line="231" column="11" selection-start-line="231" selection-start-column="11" selection-end-line="231" selection-end-column="11" />
+          <folding>
+            <element signature="e#48#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#94#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Report_test_20190607_020210.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_function/file_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_mspeech.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="e#93#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeechModel251.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+          <folding>
+            <element signature="e#74#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asrserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#93#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="405" selection-start-line="405" selection-end-line="405" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://I:/Anaconda3/envs/tensorflow-gpu/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

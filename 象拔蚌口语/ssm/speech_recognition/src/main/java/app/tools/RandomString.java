@@ -1,0 +1,31 @@
+package app.tools;
+
+
+import java.util.Random;
+
+
+public class RandomString {
+    public static String getRandomString(int len){
+        Random rd = new Random();
+        String s = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890";
+        String str="";
+        for(int i=0;i<len;i++)
+        {
+            int index = rd.nextInt(s.length());
+            str+=s.charAt(index);
+        }
+        return str;
+    }
+    public static String getRandomNum(int len)
+    {
+        Random rd = new Random();
+        String s = "1234567890";
+        String str="";
+        for(int i=0;i<len;i++)
+        {
+            int index = rd.nextInt(s.length());
+            str+=s.charAt(index);
+        }
+        return str;
+    }
+}
