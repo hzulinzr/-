@@ -42,9 +42,9 @@ public class SrServiceImpl {
     private ProblemMapper problemMapper;
     ObjectNode JSON = new JackJson().jsonTree();
 
-    public static final String APP_ID = "15899203";
-    public static final String API_KEY = "UyyOEmx2UYbIQpIZ2QcMzNPS";
-    public static final String SECRET_KEY = "9yl2RzwBTc7mnFTQv8gbQj2KAk38Gzqu";
+    public static final String APP_ID = "******";
+    public static final String API_KEY = "**********";
+    public static final String SECRET_KEY = "**************";
 
     public Problem GetRanText(int type){
         System.out.println(type);
